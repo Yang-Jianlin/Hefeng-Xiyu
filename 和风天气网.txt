@@ -1,0 +1,11 @@
+APP测试二维码：https://fir.im/
+
+APP下载网址：http://d.7short.com/YangJianlin?utm_source=fir&utm_medium=qr&release_id=5e8c668f0d81cc10ac1cb623
+
+和风官网：https://dev.heweather.com/docs/api/
+
+城市ID搜索：https://guolin.tech/api.china/
+
+免费天气接口：https://free-api.heweather.net/s6/weather/?location=CN101010100&key=9f864871b4e74a72b14a028b68266c43
+
+图片制作：https://i.kt.fkw.com/editor.jsp?id=101&_aid=22596208
